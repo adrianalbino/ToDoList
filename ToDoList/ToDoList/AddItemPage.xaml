@@ -1,0 +1,17 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDoList.AddItemPage">
+ 
+    <StackLayout>
+ 
+        <Entry x:Name="ToDoItemEntry"
+               Placeholder="Enter Title"/>
+        <Entry x:Name="ToDoDescriptionEntry"
+               Placeholder="Enter Description" />
+
+ 
+        <Button Text="Add" Clicked="OnAddButtonClicked" />
+ 
+    </StackLayout>
+ 
+</ContentPage>

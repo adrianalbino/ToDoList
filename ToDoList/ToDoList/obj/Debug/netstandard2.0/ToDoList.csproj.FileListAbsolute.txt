@@ -1,0 +1,16 @@
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.deps.json
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.dll
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/bin/Debug/netstandard2.0/ref/ToDoList.dll
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/bin/Debug/netstandard2.0/ToDoList.pdb
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/AddItemPage.xaml.g.cs
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.AssemblyInfoInputs.cache
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.AssemblyInfo.cs
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.dll
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ref/ToDoList.dll
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.pdb
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/ToDoList.csproj.AssemblyReference.cache
+/Users/adrianalbino/Desktop/ToDoList/ToDoList/ToDoList/obj/Debug/netstandard2.0/EditItemPage.xaml.g.cs
